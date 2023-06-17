@@ -1,0 +1,11 @@
+getinfo.controller
+allocateinstructor
+
+
+routes of both
+app.js of both (conects)
+
+frontend--> clam.js-->
+format data(only)
+
+(allocate wala )update instructor wala code modify acc to ttr
